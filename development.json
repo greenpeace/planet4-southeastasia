@@ -1,0 +1,5 @@
+{
+  "require":{
+    "wpackagist-plugin/leadin": "8.*"
+  }
+}
