@@ -1,12 +1,12 @@
 {
-    "name": "greenpeace/planet4-southeastasia",
-    "description": "Greenpeace P4 Southeastasia",
-    "license": "MIT",
-    "require": {
-        "greenpeace/planet4-child-theme-southeastasia" : "dev-main",
-        "wpackagist-plugin/leadin": "8.*"
-    },
-    "scripts": {
-        "site:custom": []
-    }
+  "name": "greenpeace/planet4-southeastasia",
+  "description": "Greenpeace P4 Southeastasia",
+  "license": "MIT",
+  "require": {
+    "greenpeace/planet4-child-theme-southeastasia" : "dev-main",
+    "wpackagist-plugin/leadin": "9.0.35"
+  },
+  "scripts": {
+    "site:custom": []
+  }
 }
