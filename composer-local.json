@@ -3,8 +3,7 @@
   "description": "Greenpeace P4 Southeastasia",
   "license": "MIT",
   "require": {
-    "greenpeace/planet4-child-theme-southeastasia" : "dev-main",
-    "wpackagist-plugin/leadin": "9.0.*"
+    "greenpeace/planet4-child-theme-southeastasia" : "dev-main"
   },
   "scripts": {
     "site:custom": []
