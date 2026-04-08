@@ -2,6 +2,19 @@
   "name": "greenpeace/planet4-southeastasia",
   "description": "Greenpeace P4 Southeastasia",
   "license": "MIT",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "plugins/shorthand-editor",
+        "version": "1.0.2",
+        "dist": {
+          "url": "https://storage.googleapis.com/planet4-3rdparty-plugins/shorthand-editor_1.0.2.zip",
+          "type": "zip"
+        }
+      }
+    }
+  ],
   "require": {
     "greenpeace/planet4-child-theme-southeastasia" : "dev-main"
   },
